@@ -1,0 +1,27 @@
+{
+  "name": "getting-started-with-docker",
+  "version": "1.0.0",
+  "description": "Docker starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oyekunle-Mark/getting-started-with-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "express",
+    "learn"
+  ],
+  "author": "oyekunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oyekunle-Mark/getting-started-with-docker/issues"
+  },
+  "homepage": "https://github.com/Oyekunle-Mark/getting-started-with-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
