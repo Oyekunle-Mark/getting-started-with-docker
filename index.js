@@ -1,6 +1,6 @@
 const server = require('express')();
 
-const PORT = 3000;
+const PORT = process.env.PORT;
 
 server.get('/', (req, res) => res.status(200).json('Hello Docker!'));
 
